@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1476'
     url: http://www.gutenberg.org/2009/agents/1476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31540#Marguerite-De-Roberval--A-Romance-of-the-Days-of-Jacques-Cartier
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
 identifiers:
