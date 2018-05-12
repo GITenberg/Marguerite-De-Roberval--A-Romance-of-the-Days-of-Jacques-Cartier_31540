@@ -1,0 +1,30 @@
+_repo: Marguerite-De-Roberval--A-Romance-of-the-Days-of-Jacques-Cartier_31540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marquis, Thomas Guthrie
+    alias: Marquis, T. G. (Thomas Guthrie)
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '1476'
+    url: http://www.gutenberg.org/2009/agents/1476
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roberval, Marguerite de -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
+- !lcsh 'Cartier, Jacques, 1491-1557 -- Fiction'
+- !lcsh 'Roberval, Jean François de La Roque, sieur de, 1501?-1560? -- Fiction'
+title: 'Marguerite De Roberval: A Romance of the Days of Jacques Cartier'
+url: http://www.gutenberg.org/ebooks/31540
